@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Color Hole 3D/Game/Scenes/Init.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
